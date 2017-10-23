@@ -1,7 +1,6 @@
 # iOSApprenticeExercise
 iOS apprentice by Matthijs Hollemans fifth edition
 
-
 ## Comenzando
 
 Código de los ejercicios creando un juego básico en iOS swift 3.0
