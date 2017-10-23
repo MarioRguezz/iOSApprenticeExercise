@@ -2,11 +2,6 @@
 iOS apprentice by Matthijs Hollemans fifth edition
 
 
-
-# gitPitch
-
-Ejercicios del libro iOS apprentice de Matthijs Hollemans
-
 ## Comenzando
 
 Código de los ejercicios creando un juego básico en iOS swift 3.0
